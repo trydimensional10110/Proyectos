@@ -1,0 +1,1 @@
+El archivo SumaDeVeinteNumeros.c es un programa, el cual fue realizado en los programas integrados de Visual Studio Code, Dev-C++, Code Blocks y Jdoodle. Todos en lenguaje "C". Este programa se encarga de sumar los 20 números que ingrese el usuario.

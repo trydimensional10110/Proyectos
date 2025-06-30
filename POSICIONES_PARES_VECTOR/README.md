@@ -1,0 +1,1 @@
+El archivo PosicionesParesVector.c es un programa que fue realizado en los programas integrados de Visual Studio Code, Dev-C++, Code Blocks y Jdoodle. Todo realizado en el lenguaje de programación "C". Este programa se encarga de mostrar los números almacenados en posiciones pares de un vector.
